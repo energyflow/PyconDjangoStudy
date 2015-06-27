@@ -7,4 +7,4 @@
 - **스터디 방식**: 분량을 정해서 각자 공부하고, 이를 공유하는 방식
 - **공유 방법** 
   - 각자의 GitHub 계정에 소스코드 및 내용을 정리해서 공유
-  - GitHub Wiki를 이용해서 공부한 내용들을 정리
+  - 오른쪽의 [GitHub Wiki](https://github.com/jaewooksong/PyconDjangoStudy/wiki)를 이용해서 스터디 내용 및 장고에 대해 공부한 내용들을 정리
