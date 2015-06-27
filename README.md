@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 파이썬코리아 장고 스터디 모임에서 공부한 내용을 기록하고 공유([GitHub Wiki](https://github.com/jaewooksong/PyconDjangoStudy/wiki))하는 곳입니다.
 
 - **목적**: 파이썬 및 장고 프레임워크 스터디
